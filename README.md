@@ -1,3 +1,3 @@
 # SensorSystem
 
-Little project I have made to practice SQL Server connections and classes.
+Little project I studied to practice SQL Server connections and classes.
